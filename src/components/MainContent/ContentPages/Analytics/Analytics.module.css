@@ -1,0 +1,25 @@
+
+.mainContent{
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+  font: inherit;
+  padding: 100px;
+  padding-top: 0;
+  align-items: center;
+}
+
+h1{
+  margin-top: 0;
+  padding-top: 0;
+}
+.description{
+  margin-bottom: 20px;
+}
+
+img {
+  width: 50%;
+  height: auto;
+  margin:  0 auto;}
+
+

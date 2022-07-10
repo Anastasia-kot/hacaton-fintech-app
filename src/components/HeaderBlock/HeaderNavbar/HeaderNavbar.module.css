@@ -1,0 +1,76 @@
+.navbar{
+  max-width: 1570px; 
+  text-align: center;
+  text-decoration: none;
+  display: flex;
+  justify-content: space-between;
+  padding: 16px  50px 93px 50px;
+  /* max-width: 1169px; */
+    width: 80%;
+    margin: 0 auto;
+  background-color: #28293E;
+  color: white;
+}
+
+.companyLink{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 238px;
+  text-decoration: none;
+
+}
+  .companyLogo{
+        display: inline-block;
+        width: 45,65px;
+        margin-right: 15px;
+  }
+  .companyName {
+    color: white;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 24px;
+       /* font-family:  Epilogue-bold; */
+  }  
+
+
+.companyLinkMobile{
+  display: block; 
+  padding: 16px 50px 93px 50px;
+  text-align: center;
+  background-color: #28293E;
+}
+
+
+.linksWrapper{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 522px;
+}
+
+
+
+.item{
+  color:white;
+  text-decoration: none;
+  padding:10px;
+  font-size: 16px;
+  /* font-family:  Epilogue-Regular; */
+}
+
+.login{
+  width: 136px;
+  height: 46px;
+  display: inline-block;
+  text-transform: uppercase;
+  color: white;
+  text-decoration: none;
+  border:1px solid white;
+  border-radius: 6px;
+  font-size:14px;
+  line-height: 46px;
+       /* font-family:  Epilogue-black; */
+
+}
+    

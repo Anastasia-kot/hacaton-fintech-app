@@ -1,0 +1,115 @@
+.cardsList {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.card {
+  display: inline-block;
+
+  width: 700px;
+  height: 550px;
+  border: 6px solid rgba(171, 111, 106, 0.279);
+  padding: 3px;
+  /* margin-bottom: 30px; */
+  margin: 0 15px 30px 15px;
+  border-radius: 15px;
+  display: flex;
+  justify-content: space-between;
+}
+
+
+.infoList {
+  display: flex;
+  flex-direction: column;
+  /* align-items: flex-start; */
+}
+
+
+
+input {
+  display: inline-block;
+  width: min-content;
+  margin: 0;
+  padding: 0;
+  margin-right: 10px;
+}
+
+
+.cardImgWrapper{
+    width: 400px;
+    height: 400px;
+    overflow: hidden;
+    align-items: center;
+      border-radius: 40px;
+}
+
+.cardImg {
+ height: 100%;
+ width: auto;
+  border-radius: 40px;
+
+  min-height: 100%;
+    min-width: 100%;
+    width: auto;
+    height: auto;display: block;
+      position: relative;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+}
+
+
+
+
+
+.cardCategory {
+  color: #391400;
+  font-size: 16px;
+  /* font-family: Epilogue-Regular; */
+  line-height: 32px;
+
+  background-color: white;
+  border-radius: 19px;
+  padding: 0 19px;
+  margin: 5px;
+}
+
+b {
+margin-right: 5px;
+}
+
+.buttonsBlock {
+  display: flex;
+  font-size: 16px;
+  /* flex-wrap: wrap; */
+  justify-content: space-around;
+}
+
+.cardCategoryDel {
+  color: #391400;
+  /* font-family: Epilogue-Regular; */
+  line-height: 32px;
+
+
+  color: white;
+  border-radius: 19px;
+  padding: 0 19px;
+  height: 38px;
+  background-color: #e08282;
+
+}
+
+.cardCategorySave {
+  color: #391400;
+  /* font-family: Epilogue-Regular; */
+  line-height: 32px;
+
+
+  color: white;
+  border-radius: 19px;
+  padding: 0 19px;
+  height: 38px;
+  background-color: #b1e082;
+
+
+}

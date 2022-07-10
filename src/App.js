@@ -1,25 +1,44 @@
-import logo from './logo.svg';
 import './App.css';
+import React, { useEffect, useRef } from "react";
+import { connect } from 'react-redux';
 
-function App() {
+import { deleteCards } from './redux/app-reducer';
+
+import LoginForm from './components/LoginForm/LoginForm';
+import HeaderBlock from './components/HeaderBlock/HeaderBlock';
+import MainContent from './components/MainContent/MainContent';
+
+
+
+const App = (props) =>  {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
-}
+    <>
 
-export default App;
+{ true
+// props.isAuth 
+? <div>
+    <HeaderBlock />
+    <MainContent />
+  </div>
+  
+: <div>
+    <LoginForm />
+  </div>
+}
+    </>
+    )
+
+
+
+};
+
+
+let mapStateToProps = (state) => ({
+  isAuth: state.appPage.isAuth
+})
+
+
+
+export default connect(mapStateToProps, {  })(App);
+
+
