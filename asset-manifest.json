@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/hacaton-fintech-app/static/css/main.5c735cfe.css",
+    "main.css": "/hacaton-fintech-app/static/css/main.900cf947.css",
     "main.js": "/hacaton-fintech-app/static/js/main.dc8205b3.js",
     "static/js/787.28cb0dcd.chunk.js": "/hacaton-fintech-app/static/js/787.28cb0dcd.chunk.js",
     "index.html": "/hacaton-fintech-app/index.html",
     "static/media/logo.svg": "/hacaton-fintech-app/static/media/logo.e0c4942ca5adbf887c655ff518e437fd.svg",
-    "main.5c735cfe.css.map": "/hacaton-fintech-app/static/css/main.5c735cfe.css.map",
+    "main.900cf947.css.map": "/hacaton-fintech-app/static/css/main.900cf947.css.map",
     "main.dc8205b3.js.map": "/hacaton-fintech-app/static/js/main.dc8205b3.js.map",
     "787.28cb0dcd.chunk.js.map": "/hacaton-fintech-app/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5c735cfe.css",
+    "static/css/main.900cf947.css",
     "static/js/main.dc8205b3.js"
   ]
 }
