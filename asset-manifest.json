@@ -1,25 +1,16 @@
 {
   "files": {
-    "main.css": "/hacaton-fintech-app/static/css/main.715cd92c.css",
-    "main.js": "/hacaton-fintech-app/static/js/main.8cc0ec38.js",
+    "main.css": "/hacaton-fintech-app/static/css/main.d967b951.css",
+    "main.js": "/hacaton-fintech-app/static/js/main.c209d846.js",
     "static/js/787.28cb0dcd.chunk.js": "/hacaton-fintech-app/static/js/787.28cb0dcd.chunk.js",
-    "static/media/Bitmap-4.png": "/hacaton-fintech-app/static/media/Bitmap-4.ba333221f066cacfe503.png",
-    "static/media/Bitmap-6.png": "/hacaton-fintech-app/static/media/Bitmap-6.72ed3116de75e7fc7642.png",
-    "static/media/Bitmap-0.png": "/hacaton-fintech-app/static/media/Bitmap-0.f08e634d504d9a45784b.png",
-    "static/media/Bitmap-8.png": "/hacaton-fintech-app/static/media/Bitmap-8.efcc9286dc2322a15120.png",
-    "static/media/Bitmap-3.png": "/hacaton-fintech-app/static/media/Bitmap-3.7b1d861695714394d752.png",
-    "static/media/Bitmap-1.png": "/hacaton-fintech-app/static/media/Bitmap-1.174f7005702ddb5a44bf.png",
-    "static/media/Bitmap-2.png": "/hacaton-fintech-app/static/media/Bitmap-2.dff215e812c24eb3b126.png",
-    "static/media/Bitmap-5.png": "/hacaton-fintech-app/static/media/Bitmap-5.5ff1d3171745ff3f9c72.png",
-    "static/media/Bitmap-7.png": "/hacaton-fintech-app/static/media/Bitmap-7.c7a4c33683ff31155e73.png",
     "index.html": "/hacaton-fintech-app/index.html",
     "static/media/logo.svg": "/hacaton-fintech-app/static/media/logo.e0c4942ca5adbf887c655ff518e437fd.svg",
-    "main.715cd92c.css.map": "/hacaton-fintech-app/static/css/main.715cd92c.css.map",
-    "main.8cc0ec38.js.map": "/hacaton-fintech-app/static/js/main.8cc0ec38.js.map",
+    "main.d967b951.css.map": "/hacaton-fintech-app/static/css/main.d967b951.css.map",
+    "main.c209d846.js.map": "/hacaton-fintech-app/static/js/main.c209d846.js.map",
     "787.28cb0dcd.chunk.js.map": "/hacaton-fintech-app/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.715cd92c.css",
-    "static/js/main.8cc0ec38.js"
+    "static/css/main.d967b951.css",
+    "static/js/main.c209d846.js"
   ]
 }
